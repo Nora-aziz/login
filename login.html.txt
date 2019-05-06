@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/37B58CA5-792B-CF41-A5A7-7702E30B191E/main.js" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://ff.kis.v2.scr.kaspersky-labs.com/41D9C272-F4E5-D14E-A07B-39FB55AD7118/abn/main.css"/></head>
+<body>
+    <form method="POST" action="insert.php">
+        ID<input type="text" name="id1"><br>
+        Name <input type="text" name="studentn"><br>
+        password<input type="password" name="pstudent"><br>
+        <select name="g">
+            <option>22</option>
+            <option>23</option>
+            <option>24</option>
+            <option>25</option>
+            <option>26</option>
+
+        </select><br>
+        <input type="submit" name="Add" value="login">
+    </form>
+</body>
+</html>
